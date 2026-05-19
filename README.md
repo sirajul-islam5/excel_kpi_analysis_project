@@ -1,4 +1,4 @@
-# 📊 E=commerce KPI & Operations Dashboard — Excel Project
+# 📊 E-commerce KPI & Operations Dashboard — Microsoft Excel
 
 An interactive business intelligence dashboard built entirely in Microsoft Excel, designed to analyze and visualize key performance indicators (KPIs) across orders, sales, customer behavior, and product performance. This is a guided project completed as part of my data analytics learning journey.
 
